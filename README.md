@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Sushil
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me inquiry@shushilpathak.com.np
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Serious
+
